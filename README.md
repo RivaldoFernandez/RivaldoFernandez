@@ -87,20 +87,6 @@ const MyProfile: IDeveloper = {
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 
 ---
-
-## 📌 Proyectos Destacados
-
-### 🏆 [Sistema de Gestión Empresarial](https://github.com/tu-usuario/proyecto-empresarial)
-_Plataforma integral con microservicios en Spring Boot y frontend en React_
-
-### 🛒 [E-commerce Scalable](https://github.com/tu-usuario/ecommerce-cloud)
-_Arquitectura serverless con AWS Lambda y DynamoDB_
-
-### 📊 [Dashboard Analytics](https://github.com/tu-usuario/data-dashboard)
-_Visualización de datos en tiempo real con WebSockets_
-
----
-
 ## 📈 Estadísticas GitHub
 
 <div align="center">
