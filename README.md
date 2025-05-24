@@ -1,6 +1,6 @@
 # ¡Hola! Soy **Rivaldo Fernández** 👋
 
-💻 **Desarrollador Full Stack Senior** | 🌐 **Arquitecto de Soluciones Digitales** | 🚀 **Especialista en Cloud Computing**
+💻 **Desarrollador** | 🌐 **Soluciones Digitales** | 🚀 **Estudiante en Cloud Computing**
 
 ---
 
@@ -51,6 +51,16 @@ const MyProfile: IDeveloper = {
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
+
+### 📱 Móviles
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=black)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?logo=ionic&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white)
+
 
 ### 🌐 Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
