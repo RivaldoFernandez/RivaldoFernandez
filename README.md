@@ -91,7 +91,6 @@ const MyProfile: IDeveloper = {
 
 <div align="center">
 
-[![Estadísticas](https://github-readme-stats.vercel.app/api?username=RivaldoFernandez&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)](https://github.com/RivaldoFernandez)
 [![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=RivaldoFernandez&layout=compact&theme=radical&hide_border=true)](https://github.com/RivaldoFernandez)
 
 </div>
