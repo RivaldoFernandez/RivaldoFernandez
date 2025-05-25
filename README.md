@@ -98,9 +98,3 @@
 
 > "La tecnología debe ser un puente entre los problemas complejos y las soluciones elegantes. 
 > Mi misión es construir ese puente con código limpio, arquitecturas robustas y principios SOLID."
-
-## 🐍 A Snake Eating my Contributions Graph
-	
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
