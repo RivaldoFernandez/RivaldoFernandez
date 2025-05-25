@@ -24,7 +24,7 @@
 - 📝 A veces comparto artículos o avances en [LinkedIn](https://www.linkedin.com/in/rivaldo-fernandez/).  
 - 💬 Pregúntame sobre **APIs RESTful, diseño web y soluciones digitales**.  
 - 📫 Contáctame en **rivaldo.dev.f@gmail.com**.  
-- 📄 Mira mi [CV aquí](https://github.com/RivaldoFernandez/). *(opcional)*  
+- 📄 Mira mi [aquí](https://github.com/RivaldoFernandez/).  
 
 ---
 ## 📫 Contacto
