@@ -2,31 +2,16 @@
 
 💻 **Desarrollador** | 🌐 **Soluciones Digitales** | ☁️ **Estudiante en Cloud Computing**
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
-
-## Bienvenido a mi perfil de GitHub
-
-- 👨‍💻 Actualmente desarrollo proyectos enfocados en soluciones web y APIs RESTful.
-- 📚 Aprendiendo tecnologías relacionadas con la nube, el backend y DevOps.
-- 🚀 Mi objetivo es crear soluciones innovadoras que generen un impacto positivo.
-- 🌱 Me apasiona la tecnología, el desarrollo sostenible y la transformación digital.
-
----
-
-## 👨‍💻 Perfil Técnico
-
-<h1 align="center">¡Hola! 👋 Soy <a href="#">Rivaldo Fernández</a></h1>
-<h3 align="center">Desarrollador apasionado por las soluciones digitales e innovadoras desde Perú 🇵🇪</h3>
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=RivaldoFernandez&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="RivaldoFernandez" />
 </p>
 
 <p align="left">
-  <a href="https://twitter.com/tu_usuario" target="blank">
-    <img src="https://img.shields.io/twitter/follow/tu_usuario?logo=twitter&style=for-the-badge" alt="Twitter Rivaldo Fernández" />
+  <a href="https://www.instagram.com/_rivaldo.fer/" target="_blank">
+    <img src="https://img.shields.io/badge/Follow | Instagram-%23E405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Rivaldo Fernández" />
   </a>
 </p>
+
 
 <a target="_blank" align="center">
   <img align="right" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
